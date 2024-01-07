@@ -1,0 +1,18 @@
+[project]
+name = "single_human_generator_NKroizer"
+version = "0.0.1"
+authors = [
+  { name="Nathan Kroyzer", email="kroizer21@gmail.com" },
+]
+description = "A small code to generate a random person on earth, with probability"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Nkroizer/A-Random-Human-On-Earth-Generator"
+Issues = "https://github.com/Nkroizer/A-Random-Human-On-Earth-Generator/issues"
