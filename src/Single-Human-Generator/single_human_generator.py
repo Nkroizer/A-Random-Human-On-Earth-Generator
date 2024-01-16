@@ -10,6 +10,8 @@ def generate_human():
 
     # Getting the stats of the selected country
     country_stats = stats.all_stats[country]
+    
+    # Getting the average life expectancy of people (both male and female) in that country
     average_life_expectancy = math.ceil(country_stats["averageLifeExpectancy"])
     average_life_expectancy_male = math.ceil(country_stats["averageLifeExpectancyMale"])
     average_life_expectancy_female = math.ceil(
