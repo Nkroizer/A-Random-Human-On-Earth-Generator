@@ -3,13 +3,18 @@ import stats
 import math
 import requests
 
+
 def generate_human():
     # Randomly generating the country of the person
     country = random.choices(stats.country_list, weights=stats.country_percent)[0]
+
+    # Getting the stats of the selected country
     country_stats = stats.all_stats[country]
     average_life_expectancy = math.ceil(country_stats["averageLifeExpectancy"])
     average_life_expectancy_male = math.ceil(country_stats["averageLifeExpectancyMale"])
-    average_life_expectancy_female = math.ceil(country_stats["averageLifeExpectancyFemale"])
+    average_life_expectancy_female = math.ceil(
+        country_stats["averageLifeExpectancyFemale"]
+    )
     extra_years = random.randint(0, 20)
     age = random.randint(5, average_life_expectancy + extra_years)
     api_key = "65b9b35a686fda98551c7a7fd50d5f16"
@@ -53,7 +58,7 @@ def generate_human():
 
     response_json = response.json()
 
-    #print(response_json)
+    # print(response_json)
 
     first_name = response_json["data"][0]["name"]["firstname"]["name"]
 
@@ -70,4 +75,3 @@ def generate_human():
         + " age "
         + str(age)
     )
-
