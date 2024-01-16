@@ -4,6 +4,7 @@ import math
 import requests
 
 def generate_human():
+    # Randomly generating the country of the person
     country = random.choices(stats.country_list, weights=stats.country_percent)[0]
     country_stats = stats.all_stats[country]
     average_life_expectancy = math.ceil(country_stats["averageLifeExpectancy"])
