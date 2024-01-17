@@ -20,7 +20,7 @@ def generate_human():
 
     # Just A default value, in case something goes wrong along the way
     sex = "Male"
-    
+
     # Determining the age group base on the age estimation
     age_group = ""
     if 0 <= age <= 14:
@@ -30,6 +30,7 @@ def generate_human():
     elif 65 <= age <= 110:
         age_group = "elderly"
 
+    # Now that we know the country and the age group we can decide on their sex
     sex = random.choices(
         stats.sex_list,
         weights=(
