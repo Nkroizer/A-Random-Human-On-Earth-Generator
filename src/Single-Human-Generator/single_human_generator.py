@@ -14,15 +14,11 @@ def generate_human():
     # Getting the average life expectancy of people (both male and female) in that country
     average_life_expectancy = math.ceil(country_stats["averageLifeExpectancy"])
 
-    # This is a general estimation of the person's age, so we can find out 
+    # This is a general estimation of the person's age, so we can find out
     # their sex distribution by the age group, Later we will figure out the exact age
     age = random.randint(5, average_life_expectancy)
 
-    # Adding a few extra years
-    extra_years = random.randint(0, 20)
-    api_key = "65b9b35a686fda98551c7a7fd50d5f16"
-    country_code = country_stats["countryCode"]
-
+    # Just A default value, in case something goes wrong along the way
     sex = "Male"
     age_group = ""
     if 0 <= age <= 14:
@@ -39,6 +35,10 @@ def generate_human():
             country_stats[age_group]["female"],
         ),
     )[0]
+
+    # Adding a few extra years
+    extra_years = random.randint(0, 20)
+
     if sex == "Male":
         gender = "m"
         if age_group == "elderly":
@@ -55,6 +55,9 @@ def generate_human():
                 )
                 + extra_years,
             )
+
+    api_key = "65b9b35a686fda98551c7a7fd50d5f16"
+    country_code = country_stats["countryCode"]
 
     url = (
         "https://api.parser.name/?api_key="
