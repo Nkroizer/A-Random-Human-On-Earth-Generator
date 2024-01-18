@@ -78,9 +78,8 @@ def generate_human():
     response = requests.get(url)
 
     response_json = response.json()
-
-    # print(response_json)
-
+    
+    # Getting the first name from the response
     first_name = response_json["data"][0]["name"]["firstname"]["name"]
 
     last_name = response_json["data"][0]["name"]["lastname"]["name"]
