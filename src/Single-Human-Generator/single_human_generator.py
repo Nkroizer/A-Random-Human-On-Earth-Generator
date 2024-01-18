@@ -39,9 +39,11 @@ def generate_human():
         ),
     )[0]
 
-    # Adding a few extra years
+    # Adding a few extra years, we don't want the age to be limited to 60-70 years, some people live very long
+    # lives, so 20 years is a nice margin for errors
     extra_years = random.randint(0, 20)
-
+    
+    #Each country has a different life expectancy depending if the person is male or female
     if sex == "Male":
         gender = "m"
         if age_group == "elderly":
