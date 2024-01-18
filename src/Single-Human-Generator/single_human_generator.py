@@ -60,7 +60,9 @@ def generate_human():
                 )
                 + extra_years,
             )
-
+            
+    # This is a nice API I found that generates a random first name and last name with the option
+    # to make it more precise if you add the country and the sex
     api_key = "65b9b35a686fda98551c7a7fd50d5f16"
     country_code = country_stats["countryCode"]
 
