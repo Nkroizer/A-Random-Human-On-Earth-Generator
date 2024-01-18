@@ -81,7 +81,8 @@ def generate_human():
     
     # Getting the first name from the response
     first_name = response_json["data"][0]["name"]["firstname"]["name"]
-
+    
+    # Getting the last name from the response
     last_name = response_json["data"][0]["name"]["lastname"]["name"]
 
     return (
