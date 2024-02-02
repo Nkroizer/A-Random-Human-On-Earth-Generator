@@ -6,3 +6,4 @@
 # I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
 # If a parsley farmer gets sued, can they garnish his wages?
 # I know they say that money talks, but all mine says is 'Goodbye.'
+# Maybe if we start telling people their brain is an app, they'll want to use it.
