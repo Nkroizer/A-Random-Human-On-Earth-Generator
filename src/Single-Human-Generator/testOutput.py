@@ -9,3 +9,4 @@
 # Maybe if we start telling people their brain is an app, they'll want to use it.
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # I put my grandma on speed dial the other day. I call it insta-gram.
+# Two wifi engineers got married. The reception was fantastic.
