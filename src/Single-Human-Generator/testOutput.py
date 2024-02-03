@@ -10,3 +10,4 @@
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # I put my grandma on speed dial the other day. I call it insta-gram.
 # Two wifi engineers got married. The reception was fantastic.
+# What's the difference between ignorance and apathy? I don't know and I don't care.
