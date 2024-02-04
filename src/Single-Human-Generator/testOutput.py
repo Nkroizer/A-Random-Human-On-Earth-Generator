@@ -13,3 +13,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
+# The last thing I want to do is hurt you; but it's still on the list.
