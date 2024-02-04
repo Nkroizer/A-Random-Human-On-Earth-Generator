@@ -15,3 +15,4 @@
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # The last thing I want to do is hurt you; but it's still on the list.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
+# Always borrow money from a pessimist. They'll never expect it back.
