@@ -17,3 +17,4 @@
 # Two fish are in a tank. One says, 'How do you drive this thing?'
 # Always borrow money from a pessimist. They'll never expect it back.
 # I used to have a handle on life, but then it broke.
+# The rotation of Earth really makes my day.
