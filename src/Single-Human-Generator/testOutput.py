@@ -12,3 +12,4 @@
 # Two wifi engineers got married. The reception was fantastic.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
+# When the cannibal showed up late to the buffet, they gave him the cold shoulder.
