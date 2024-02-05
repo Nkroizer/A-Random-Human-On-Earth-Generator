@@ -21,3 +21,4 @@
 # I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
 # I went to a seafood disco last week, but ended up pulling a mussel.
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
+# I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
