@@ -19,3 +19,4 @@
 # I used to have a handle on life, but then it broke.
 # The rotation of Earth really makes my day.
 # I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
+# I went to a seafood disco last week, but ended up pulling a mussel.
