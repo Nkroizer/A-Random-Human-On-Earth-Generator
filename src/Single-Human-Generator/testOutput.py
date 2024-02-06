@@ -24,3 +24,4 @@
 # I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
 # What if there were no hypothetical questions?
 # My father has schizophrenia, but he's good people.
+# A Freudian slip is when you mean one thing and mean your mother.
