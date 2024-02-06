@@ -23,3 +23,4 @@
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
 # I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
 # What if there were no hypothetical questions?
+# My father has schizophrenia, but he's good people.
