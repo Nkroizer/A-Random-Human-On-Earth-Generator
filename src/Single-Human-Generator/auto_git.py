@@ -2,7 +2,6 @@ from git import Repo
 import random
 
 PATH_OF_GIT_REPO = r"C:/Users/Rent\Documents/Repos\A-Random-Human-On-Earth-Generator-1/.git"  # make sure .git folder is properly configured
-COMMIT_MESSAGE = "comment from python script"
 random_comments = [
     "My wife told me to stop impersonating a flamingo. I had to put my foot down.",
     "I went to buy some camo pants but couldn't find any.",
@@ -105,23 +104,55 @@ random_comments = [
     "The man who survived both mustard gas and pepper spray is a seasoned veteran now.",
     "Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.",
 ]
+random_commit_message_opener = ["Integrated", "Added", "Fixed", "Modified", "Removed"]
+random_commit_messages = [
+    "Enhanced current-source",
+    "Accelerated paradigm-shift resonance",
+    "Field-programmable software-defined ring-modulator",
+    "Pseudo-random digital platform",
+    "Multi-core digital summing-amplifier",
+    "Scale-out ultra-performance current-source",
+    "Structured synthesized current-source",
+    "Re-entrant incremental signal",
+    "Cloud-native jitter-free phase-noise",
+    "World fastest matrix write-only-memory",
+    "Interactive phased platform",
+    "Structured jitter-free logic-device",
+    "Phase-locked programmable summing-amplifier",
+    "Complex-programmable synthesized platform",
+    "Smart power-efficient circulator",
+    "Offset monitored array",
+    "Multi-core scalable ring-modulator",
+]
+
+COMMIT_MESSAGE = "comment from python script"
 
 
 def git_push():
     random_number_of_commits = random.randint(2, 5)
     for i in range(random_number_of_commits):
         print("pushing " + str(i + 1) + " out of " + str(random_number_of_commits))
-        file1 = open(
-            "C:/Users/Rent/Documents/Repos/A-Random-Human-On-Earth-Generator-1/src/Single-Human-Generator/testOutput.py",
-            "a",
+        COMMIT_MESSAGE = (
+            random.choice(random_commit_message_opener)
+            + " the "
+            + random.choice(random_commit_messages)
         )
-        file1.write("# " + random.choice(random_comments) + "\n")
-        file1.close()
-        repo = Repo(PATH_OF_GIT_REPO)
-        repo.git.add(update=True)
-        repo.index.commit(COMMIT_MESSAGE)
-        origin = repo.remote(name="origin")
-        origin.push()
+        print(COMMIT_MESSAGE)
+        try:
+            file1 = open(
+                "C:/Users/Rent/Documents/Repos/A-Random-Human-On-Earth-Generator-1/src/Single-Human-Generator/testOutput.py",
+                "a",
+            )
+            file1.write("# " + random.choice(random_comments) + "\n")
+            file1.close()
+            repo = Repo(PATH_OF_GIT_REPO)
+            repo.git.add(update=True)
+            repo.index.commit(COMMIT_MESSAGE)
+            origin = repo.remote(name="origin")
+            origin.push()
+        except:
+            print("An exception occurred")
+
     print("done")
 
 
