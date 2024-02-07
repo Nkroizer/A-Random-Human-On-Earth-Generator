@@ -25,3 +25,4 @@
 # What if there were no hypothetical questions?
 # My father has schizophrenia, but he's good people.
 # A Freudian slip is when you mean one thing and mean your mother.
+# It was an emotional wedding. Even the cake was in tiers.
