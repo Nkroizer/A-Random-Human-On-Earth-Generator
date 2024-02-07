@@ -27,3 +27,4 @@
 # A Freudian slip is when you mean one thing and mean your mother.
 # It was an emotional wedding. Even the cake was in tiers.
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
