@@ -30,3 +30,4 @@
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # I have a few jokes about unemployed people, but none of them work.
 # What if there were no hypothetical questions?
+# I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
