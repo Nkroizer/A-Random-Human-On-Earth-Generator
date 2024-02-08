@@ -29,3 +29,4 @@
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # I have a few jokes about unemployed people, but none of them work.
+# What if there were no hypothetical questions?
