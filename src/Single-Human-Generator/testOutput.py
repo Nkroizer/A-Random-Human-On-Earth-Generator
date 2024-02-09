@@ -34,3 +34,4 @@
 # A book fell on my head the other day. I only have my shelf to blame though.
 # I used to think I was indecisive. But now I'm not so sure.
 # Will glass coffins be a success? Remains to be seen.
+# Atheism is a non-prophet organization.
