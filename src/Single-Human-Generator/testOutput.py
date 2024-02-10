@@ -36,3 +36,4 @@
 # Will glass coffins be a success? Remains to be seen.
 # Atheism is a non-prophet organization.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
+# My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
