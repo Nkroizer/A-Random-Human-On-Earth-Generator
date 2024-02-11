@@ -38,3 +38,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # Russian dolls are so full of themselves.
+# I have a few jokes about unemployed people, but none of them work.
