@@ -44,3 +44,4 @@
 # My father has schizophrenia, but he's good people.
 # Don't you hate it when someone answers their own questions? I do.
 # How do you make holy water? You boil the hell out of it.
+# The man who survived both mustard gas and pepper spray is a seasoned veteran now.
