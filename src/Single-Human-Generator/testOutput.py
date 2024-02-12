@@ -42,3 +42,4 @@
 # I have a few jokes about unemployed people, but none of them work.
 # I used to think I was indecisive. But now I'm not so sure.
 # My father has schizophrenia, but he's good people.
+# Don't you hate it when someone answers their own questions? I do.
