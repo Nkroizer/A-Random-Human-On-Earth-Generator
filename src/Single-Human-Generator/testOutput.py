@@ -48,3 +48,4 @@
 # Two wifi engineers got married. The reception was fantastic.
 # The last thing I want to do is hurt you; but it's still on the list.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
+# The problem with kleptomaniacs is that they always take things literally.
