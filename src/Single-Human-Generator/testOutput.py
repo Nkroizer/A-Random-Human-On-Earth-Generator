@@ -51,3 +51,4 @@
 # The problem with kleptomaniacs is that they always take things literally.
 # A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
 # A recent study has found that women who carry a little extra weight live longer than the men who mention it.
+# Will glass coffins be a success? Remains to be seen.
