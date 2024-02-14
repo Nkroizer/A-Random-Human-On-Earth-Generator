@@ -50,3 +50,4 @@
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # The problem with kleptomaniacs is that they always take things literally.
 # A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
+# A recent study has found that women who carry a little extra weight live longer than the men who mention it.
