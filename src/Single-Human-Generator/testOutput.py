@@ -54,3 +54,4 @@
 # Will glass coffins be a success? Remains to be seen.
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # The rotation of Earth really makes my day.
+# I can tell when people are being judgmental just by looking at them.
