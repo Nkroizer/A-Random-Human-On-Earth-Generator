@@ -58,3 +58,4 @@
 # I saw a sign the other day that said, 'Watch for children,' and I thought, 'That sounds like a fair trade.'
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
 # Don't you hate it when someone answers their own questions? I do.
+# I failed math so many times at school, I can't even count.
