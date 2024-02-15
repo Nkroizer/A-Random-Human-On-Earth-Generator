@@ -55,3 +55,4 @@
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # The rotation of Earth really makes my day.
 # I can tell when people are being judgmental just by looking at them.
+# I saw a sign the other day that said, 'Watch for children,' and I thought, 'That sounds like a fair trade.'
