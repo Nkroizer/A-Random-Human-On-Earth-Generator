@@ -64,3 +64,4 @@
 # Two fish are in a tank. One says, 'How do you drive this thing?'
 # The easiest time to add insult to injury is when you're signing someone's cast.
 # Pollen is what happens when flowers can't keep it in their plants.
+# Adam & Eve were the first ones to ignore the Apple terms and conditions.
