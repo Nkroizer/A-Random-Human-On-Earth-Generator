@@ -62,3 +62,4 @@
 # I failed math so many times at school, I can't even count.
 # I have a few jokes about unemployed people, but none of them work.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
+# The easiest time to add insult to injury is when you're signing someone's cast.
