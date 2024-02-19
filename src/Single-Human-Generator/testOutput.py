@@ -66,3 +66,4 @@
 # Pollen is what happens when flowers can't keep it in their plants.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # When life gives you melons, you might be dyslexic.
+# 'Doctor, there's a patient on line one that says he's invisible.' 'Well, tell him I can't see him right now.'
