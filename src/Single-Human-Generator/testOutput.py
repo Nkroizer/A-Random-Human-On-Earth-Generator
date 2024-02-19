@@ -69,3 +69,4 @@
 # 'Doctor, there's a patient on line one that says he's invisible.' 'Well, tell him I can't see him right now.'
 # I was addicted to the hokey pokey, but then I turned myself around.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
+# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
