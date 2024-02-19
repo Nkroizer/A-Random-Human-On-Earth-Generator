@@ -68,3 +68,4 @@
 # When life gives you melons, you might be dyslexic.
 # 'Doctor, there's a patient on line one that says he's invisible.' 'Well, tell him I can't see him right now.'
 # I was addicted to the hokey pokey, but then I turned myself around.
+# A termite walks into the bar and asks, 'Is the bar tender here?'
