@@ -72,3 +72,4 @@
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
 # I failed math so many times at school, I can't even count.
 # It takes a lot of balls to golf the way I do.
+# The man who survived both mustard gas and pepper spray is a seasoned veteran now.
