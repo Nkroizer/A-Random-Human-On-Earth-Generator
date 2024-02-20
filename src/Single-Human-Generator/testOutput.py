@@ -71,3 +71,4 @@
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
 # I failed math so many times at school, I can't even count.
+# It takes a lot of balls to golf the way I do.
