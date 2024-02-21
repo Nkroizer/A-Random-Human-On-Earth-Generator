@@ -74,3 +74,4 @@
 # It takes a lot of balls to golf the way I do.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
 # Atheism is a non-prophet organization.
+# The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
