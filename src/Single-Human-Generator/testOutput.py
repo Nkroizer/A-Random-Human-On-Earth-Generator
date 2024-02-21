@@ -77,3 +77,4 @@
 # The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
 # 'I have a split personality,' said Tom, being Frank.
 # If you don't pay your exorcist, do you get repossessed?
+# The man who invented Velcro has died. RIP.
