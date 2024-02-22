@@ -79,3 +79,4 @@
 # If you don't pay your exorcist, do you get repossessed?
 # The man who invented Velcro has died. RIP.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
+# Atheism is a non-prophet organization.
