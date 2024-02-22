@@ -80,3 +80,4 @@
 # The man who invented Velcro has died. RIP.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # Atheism is a non-prophet organization.
+# Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
