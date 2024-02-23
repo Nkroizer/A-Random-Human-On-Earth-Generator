@@ -83,3 +83,4 @@
 # Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
