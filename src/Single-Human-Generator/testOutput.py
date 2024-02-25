@@ -87,3 +87,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # If attacked by a mob of clowns, go for the juggler.
 # If attacked by a mob of clowns, go for the juggler.
+# My friend was explaining electricity to me, but I was like, 'Watt?'
