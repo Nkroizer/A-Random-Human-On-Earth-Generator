@@ -86,3 +86,4 @@
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # If attacked by a mob of clowns, go for the juggler.
+# If attacked by a mob of clowns, go for the juggler.
