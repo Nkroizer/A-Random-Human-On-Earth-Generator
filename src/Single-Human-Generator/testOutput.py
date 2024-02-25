@@ -85,3 +85,4 @@
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
+# If attacked by a mob of clowns, go for the juggler.
