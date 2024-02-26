@@ -88,3 +88,4 @@
 # If attacked by a mob of clowns, go for the juggler.
 # If attacked by a mob of clowns, go for the juggler.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
+# Despite the high cost of living, it remains popular.
