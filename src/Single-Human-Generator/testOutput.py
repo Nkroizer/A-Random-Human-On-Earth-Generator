@@ -89,3 +89,4 @@
 # If attacked by a mob of clowns, go for the juggler.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # Despite the high cost of living, it remains popular.
+# I have a few jokes about unemployed people, but none of them work.
