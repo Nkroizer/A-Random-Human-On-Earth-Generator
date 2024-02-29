@@ -98,3 +98,4 @@
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
 # 6:00 is the best time on a clock, hands down.
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
