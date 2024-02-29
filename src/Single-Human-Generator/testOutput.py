@@ -95,3 +95,4 @@
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # I have a few jokes about unemployed people, but none of them work.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
+# My wife told me to stop impersonating a flamingo. I had to put my foot down.
