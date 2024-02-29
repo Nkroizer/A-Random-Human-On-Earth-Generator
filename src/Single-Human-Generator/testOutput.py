@@ -96,3 +96,4 @@
 # I have a few jokes about unemployed people, but none of them work.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
+# My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
