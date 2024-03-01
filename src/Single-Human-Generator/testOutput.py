@@ -103,3 +103,4 @@
 # Refusing to go to the gym is a form of resistance training.
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # Will glass coffins be a success? Remains to be seen.
+# People who take care of chickens are literally chicken tenders.
