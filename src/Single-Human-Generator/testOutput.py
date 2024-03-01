@@ -101,3 +101,4 @@
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # My father has schizophrenia, but he's good people.
 # Refusing to go to the gym is a form of resistance training.
+# My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
