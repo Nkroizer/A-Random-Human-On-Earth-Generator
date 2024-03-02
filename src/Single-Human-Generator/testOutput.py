@@ -104,3 +104,4 @@
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # Will glass coffins be a success? Remains to be seen.
 # People who take care of chickens are literally chicken tenders.
+# Always borrow money from a pessimist. They'll never expect it back.
