@@ -106,3 +106,4 @@
 # People who take care of chickens are literally chicken tenders.
 # Always borrow money from a pessimist. They'll never expect it back.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
+# Will glass coffins be a success? Remains to be seen.
