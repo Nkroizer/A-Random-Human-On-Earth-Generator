@@ -107,3 +107,4 @@
 # Always borrow money from a pessimist. They'll never expect it back.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
 # Will glass coffins be a success? Remains to be seen.
+# Did you hear about the guy whose whole left side got amputated? He's all right now.
