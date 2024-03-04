@@ -110,3 +110,4 @@
 # Did you hear about the guy whose whole left side got amputated? He's all right now.
 # Are people born with photographic memories, or does it take time to develop?
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
+# If attacked by a mob of clowns, go for the juggler.
