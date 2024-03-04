@@ -111,3 +111,4 @@
 # Are people born with photographic memories, or does it take time to develop?
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
 # If attacked by a mob of clowns, go for the juggler.
+# What's a frog's favorite type of shoes? Open toad sandals.
