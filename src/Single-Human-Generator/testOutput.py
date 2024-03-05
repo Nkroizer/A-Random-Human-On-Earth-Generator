@@ -113,3 +113,4 @@
 # If attacked by a mob of clowns, go for the juggler.
 # What's a frog's favorite type of shoes? Open toad sandals.
 # Blunt pencils are really pointless.
+# If you don't pay your exorcist, do you get repossessed?
