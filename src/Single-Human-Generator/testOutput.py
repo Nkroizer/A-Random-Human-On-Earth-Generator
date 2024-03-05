@@ -114,3 +114,4 @@
 # What's a frog's favorite type of shoes? Open toad sandals.
 # Blunt pencils are really pointless.
 # If you don't pay your exorcist, do you get repossessed?
+# The easiest time to add insult to injury is when you're signing someone's cast.
