@@ -116,3 +116,4 @@
 # If you don't pay your exorcist, do you get repossessed?
 # The easiest time to add insult to injury is when you're signing someone's cast.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
+# I have a few jokes about unemployed people, but none of them work.
