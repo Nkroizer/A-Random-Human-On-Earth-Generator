@@ -120,3 +120,4 @@
 # Just burned ,000 calories. That's the last time I leave brownies in the oven while I nap.
 # Geology rocks, but geography's where it's at.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# I was addicted to the hokey pokey, but then I turned myself around.
