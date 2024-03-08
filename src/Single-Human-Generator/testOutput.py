@@ -124,3 +124,4 @@
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # Two fish are in a tank. One says, 'How do you drive this thing?'
 # Most people are shocked when they find out how bad I am as an electrician.
+# I have a few jokes about unemployed people, but none of them work.
