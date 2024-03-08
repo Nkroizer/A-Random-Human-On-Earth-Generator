@@ -122,3 +122,4 @@
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # I was addicted to the hokey pokey, but then I turned myself around.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
+# Two fish are in a tank. One says, 'How do you drive this thing?'
