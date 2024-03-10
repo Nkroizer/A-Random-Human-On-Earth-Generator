@@ -129,3 +129,4 @@
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # 'I have a split personality,' said Tom, being Frank.
 # If a parsley farmer gets sued, can they garnish his wages?
+# A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
