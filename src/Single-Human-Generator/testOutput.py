@@ -128,3 +128,4 @@
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # 'I have a split personality,' said Tom, being Frank.
+# If a parsley farmer gets sued, can they garnish his wages?
