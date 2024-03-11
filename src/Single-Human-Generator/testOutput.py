@@ -132,3 +132,4 @@
 # A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
 # A blind man walked into a bar… and a table… and a chair…
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
+# I used to have a handle on life, but then it broke.
