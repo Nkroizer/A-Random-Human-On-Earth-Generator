@@ -134,3 +134,4 @@
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # I used to have a handle on life, but then it broke.
 # A Freudian slip is when you mean one thing and mean your mother.
+# It was an emotional wedding. Even the cake was in tiers.
