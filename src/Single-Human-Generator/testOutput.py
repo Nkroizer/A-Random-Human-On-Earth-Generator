@@ -135,3 +135,4 @@
 # I used to have a handle on life, but then it broke.
 # A Freudian slip is when you mean one thing and mean your mother.
 # It was an emotional wedding. Even the cake was in tiers.
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
