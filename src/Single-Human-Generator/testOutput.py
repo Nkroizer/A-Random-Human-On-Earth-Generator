@@ -137,3 +137,4 @@
 # It was an emotional wedding. Even the cake was in tiers.
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # I'm reading a book about anti-gravity. It's impossible to put down.
+# Fighting for peace is like screwing for virginity.
