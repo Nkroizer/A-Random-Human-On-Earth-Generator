@@ -140,3 +140,4 @@
 # Fighting for peace is like screwing for virginity.
 # I can tell when people are being judgmental just by looking at them.
 # What's a frog's favorite type of shoes? Open toad sandals.
+# I can't believe I got fired from the calendar factory. All I did was take a day off.
