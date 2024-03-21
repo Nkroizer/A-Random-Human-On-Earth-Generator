@@ -43,7 +43,7 @@ def generate_human():
     # lives, so 20 years is a nice margin for errors
     extra_years = random.randint(0, 20)
     
-    #Each country has a different life expectancy depending if the person is male or female
+    # Each country has a different life expectancy depending if the person is male or female
     if sex == "Male":
         gender = "m"
         if age_group == "elderly":
@@ -55,12 +55,9 @@ def generate_human():
         if age_group == "elderly":
             age = random.randint(
                 65,
-                average_life_expectancy_female=math.ceil(
-                    country_stats["averageLifeExpectancyFemale"]
-                )
-                + extra_years,
+                math.ceil(country_stats["averageLifeExpectancyFemale"]) + extra_years,
             )
-            
+
     # This is a nice API I found that generates a random first name and last name with the option
     # to make it more precise if you add the country and the sex
     api_key = "65b9b35a686fda98551c7a7fd50d5f16"
@@ -78,10 +75,10 @@ def generate_human():
     response = requests.get(url)
 
     response_json = response.json()
-    
+
     # Getting the first name from the response
     first_name = response_json["data"][0]["name"]["firstname"]["name"]
-    
+
     # Getting the last name from the response
     last_name = response_json["data"][0]["name"]["lastname"]["name"]
 

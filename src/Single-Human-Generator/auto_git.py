@@ -465,7 +465,7 @@ def git_push():
         print(COMMIT_MESSAGE)
         try:
             file1 = open(
-                "C:/Users/Rent/Documents/GitHub/Python-Acting-Improv-Suggestions/src/Acting-Improv-Suggestions/testOutput.py",
+                "C:/Users/Rent/Documents/Repos/A-Random-Human-On-Earth-Generator-1/src/Single-Human-Generator/testOutput.py",
                 "a",
             )
             file1.write("# " + random.choice(random_comments) + "\n")
