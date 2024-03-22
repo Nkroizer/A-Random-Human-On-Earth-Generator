@@ -144,3 +144,4 @@
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # People who take care of chickens are literally chicken tenders.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
+# I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
