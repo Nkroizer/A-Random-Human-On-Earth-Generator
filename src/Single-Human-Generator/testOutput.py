@@ -143,3 +143,4 @@
 # I can't believe I got fired from the calendar factory. All I did was take a day off.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # People who take care of chickens are literally chicken tenders.
+# My wife told me to stop impersonating a flamingo. I had to put my foot down.
