@@ -145,3 +145,4 @@
 # People who take care of chickens are literally chicken tenders.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
+# I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
