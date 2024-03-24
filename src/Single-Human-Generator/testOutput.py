@@ -148,3 +148,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # If you don't pay your exorcist, do you get repossessed?
+# What's a frog's favorite type of shoes? Open toad sandals.
