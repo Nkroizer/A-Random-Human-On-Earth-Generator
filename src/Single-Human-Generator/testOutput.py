@@ -147,3 +147,4 @@
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
+# If you don't pay your exorcist, do you get repossessed?
