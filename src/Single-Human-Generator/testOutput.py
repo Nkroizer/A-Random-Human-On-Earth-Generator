@@ -154,3 +154,4 @@
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # I have a few jokes about unemployed people, but none of them work.
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
