@@ -149,3 +149,4 @@
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # If you don't pay your exorcist, do you get repossessed?
 # What's a frog's favorite type of shoes? Open toad sandals.
+# When the cannibal showed up late to the buffet, they gave him the cold shoulder.
