@@ -153,3 +153,4 @@
 # Well, to be Frank with you, I'd have to change my name.
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
+# I have a few jokes about unemployed people, but none of them work.
