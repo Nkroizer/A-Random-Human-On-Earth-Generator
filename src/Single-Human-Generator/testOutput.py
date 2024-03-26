@@ -159,3 +159,4 @@
 # I went to a seafood disco last week, but ended up pulling a mussel.
 # Two wifi engineers got married. The reception was fantastic.
 # My father has schizophrenia, but he's good people.
+# One of the cows didn't produce milk today. It was an udder failure.
