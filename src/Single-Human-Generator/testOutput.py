@@ -157,3 +157,4 @@
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # A book fell on my head the other day. I only have my shelf to blame though.
 # I went to a seafood disco last week, but ended up pulling a mussel.
+# Two wifi engineers got married. The reception was fantastic.
