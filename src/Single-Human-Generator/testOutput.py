@@ -161,3 +161,4 @@
 # My father has schizophrenia, but he's good people.
 # One of the cows didn't produce milk today. It was an udder failure.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
+# 'I have a split personality,' said Tom, being Frank.
