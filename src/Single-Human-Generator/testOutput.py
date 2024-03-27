@@ -162,3 +162,4 @@
 # One of the cows didn't produce milk today. It was an udder failure.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # 'I have a split personality,' said Tom, being Frank.
+# I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
