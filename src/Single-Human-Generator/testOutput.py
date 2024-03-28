@@ -172,3 +172,4 @@
 # When life gives you melons, you might be dyslexic.
 # Build a man a fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life.
 # Pollen is what happens when flowers can't keep it in their plants.
+# I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
