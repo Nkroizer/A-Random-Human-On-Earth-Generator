@@ -171,3 +171,4 @@
 # Don't you hate it when someone answers their own questions? I do.
 # When life gives you melons, you might be dyslexic.
 # Build a man a fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life.
+# Pollen is what happens when flowers can't keep it in their plants.
