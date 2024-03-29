@@ -177,3 +177,4 @@
 # Well, to be Frank with you, I'd have to change my name.
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
+# 'I have a split personality,' said Tom, being Frank.
