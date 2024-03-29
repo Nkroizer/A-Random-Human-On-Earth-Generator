@@ -178,3 +178,4 @@
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # 'I have a split personality,' said Tom, being Frank.
+# I can tell when people are being judgmental just by looking at them.
