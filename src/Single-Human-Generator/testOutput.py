@@ -176,3 +176,4 @@
 # The future, the present, and the past walk into a bar. Things got a little tense.
 # Well, to be Frank with you, I'd have to change my name.
 # I didn't think orthopedic shoes would help, but I stand corrected.
+# When the cannibal showed up late to the buffet, they gave him the cold shoulder.
