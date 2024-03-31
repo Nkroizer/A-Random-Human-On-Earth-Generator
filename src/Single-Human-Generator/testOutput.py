@@ -181,3 +181,4 @@
 # I can tell when people are being judgmental just by looking at them.
 # My friend's bakery burned down last night. Now his business is toast.
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
+# A book fell on my head the other day. I only have my shelf to blame though.
