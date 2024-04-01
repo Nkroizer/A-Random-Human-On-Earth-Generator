@@ -183,3 +183,4 @@
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
 # A book fell on my head the other day. I only have my shelf to blame though.
 # Just burned ,000 calories. That's the last time I leave brownies in the oven while I nap.
+# My friend's bakery burned down last night. Now his business is toast.
