@@ -188,3 +188,4 @@
 # The future, the present, and the past walk into a bar. Things got a little tense.
 # Don't you hate it when someone answers their own questions? I do.
 # What's a frog's favorite type of shoes? Open toad sandals.
+# One of the cows didn't produce milk today. It was an udder failure.
