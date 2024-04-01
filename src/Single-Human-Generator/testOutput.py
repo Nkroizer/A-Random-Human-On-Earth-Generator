@@ -186,3 +186,4 @@
 # My friend's bakery burned down last night. Now his business is toast.
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # The future, the present, and the past walk into a bar. Things got a little tense.
+# Don't you hate it when someone answers their own questions? I do.
