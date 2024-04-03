@@ -192,3 +192,4 @@
 # I'm reading a book about anti-gravity. It's impossible to put down.
 # I'm reading a book about anti-gravity. It's impossible to put down.
 # Maybe if we start telling people their brain is an app, they'll want to use it.
+# My friend's bakery burned down last night. Now his business is toast.
