@@ -452,6 +452,8 @@ schedule = {
     },
     2025: {1: {1: low_push}},
 }
+
+
 def git_push():
     current_dateTime = datetime.now()
     random_number_of_commits = schedule[current_dateTime.year][current_dateTime.month][current_dateTime.day]
