@@ -194,3 +194,4 @@
 # Maybe if we start telling people their brain is an app, they'll want to use it.
 # My friend's bakery burned down last night. Now his business is toast.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
+# A Mexican magician tells the audience he will disappear on the count of three. He says, 'Uno, dos…” and poof! He disappeared without a tres.
