@@ -198,3 +198,4 @@
 # I just got kicked out of a secret cooking society. I spilled the beans.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # Always borrow money from a pessimist. They'll never expect it back.
+# If a parsley farmer gets sued, can they garnish his wages?
