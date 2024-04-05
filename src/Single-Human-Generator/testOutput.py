@@ -199,3 +199,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # Always borrow money from a pessimist. They'll never expect it back.
 # If a parsley farmer gets sued, can they garnish his wages?
+# I told him to be himself; that was pretty mean, I guess.
