@@ -200,3 +200,4 @@
 # Always borrow money from a pessimist. They'll never expect it back.
 # If a parsley farmer gets sued, can they garnish his wages?
 # I told him to be himself; that was pretty mean, I guess.
+# I used to think I was indecisive. But now I'm not so sure.
