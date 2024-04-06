@@ -1,6 +1,6 @@
 # A book fell on my head the other day. I only have my shelf to blame though.
 # Don't you hate it when someone answers their own questions? I do.
-# A Mexican magician tells the audience he will disappear on the count of three. He says, 'Uno, dos…” and poof! He disappeared without a tres.
+# A Mexican magician tells the audience he will disappear on the count of three. He says, 'Uno, dosï¿½ï¿½ and poof! He disappeared without a tres.
 # Build a man a fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life.
 # I'm reading a book about anti-gravity. It's impossible to put down.
 # I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
@@ -69,7 +69,7 @@
 # 'Doctor, there's a patient on line one that says he's invisible.' 'Well, tell him I can't see him right now.'
 # I was addicted to the hokey pokey, but then I turned myself around.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
-# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# Have you heard about the new restaurant called 'Karma?' There's no menuï¿½you get what you deserve.
 # I failed math so many times at school, I can't even count.
 # It takes a lot of balls to golf the way I do.
 # The man who survived both mustard gas and pepper spray is a seasoned veteran now.
@@ -130,7 +130,7 @@
 # 'I have a split personality,' said Tom, being Frank.
 # If a parsley farmer gets sued, can they garnish his wages?
 # A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
-# A blind man walked into a bar… and a table… and a chair…
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # I used to have a handle on life, but then it broke.
 # A Freudian slip is when you mean one thing and mean your mother.
@@ -151,7 +151,7 @@
 # What's a frog's favorite type of shoes? Open toad sandals.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # Well, to be Frank with you, I'd have to change my name.
-# I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
+# I want to die peacefully in my sleep, like my grandfatherï¿½ Not screaming and yelling like the passengers in his car.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # I have a few jokes about unemployed people, but none of them work.
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
@@ -194,7 +194,7 @@
 # Maybe if we start telling people their brain is an app, they'll want to use it.
 # My friend's bakery burned down last night. Now his business is toast.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
-# A Mexican magician tells the audience he will disappear on the count of three. He says, 'Uno, dos…” and poof! He disappeared without a tres.
+# A Mexican magician tells the audience he will disappear on the count of three. He says, 'Uno, dosï¿½ï¿½ and poof! He disappeared without a tres.
 # I just got kicked out of a secret cooking society. I spilled the beans.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # Always borrow money from a pessimist. They'll never expect it back.
@@ -202,4 +202,3 @@
 # I told him to be himself; that was pretty mean, I guess.
 # I used to think I was indecisive. But now I'm not so sure.
 # If attacked by a mob of clowns, go for the juggler.
-# I threw a boomerang a couple years ago; I know live in constant fear.
