@@ -201,4 +201,3 @@
 # If a parsley farmer gets sued, can they garnish his wages?
 # I told him to be himself; that was pretty mean, I guess.
 # I used to think I was indecisive. But now I'm not so sure.
-# If attacked by a mob of clowns, go for the juggler.
